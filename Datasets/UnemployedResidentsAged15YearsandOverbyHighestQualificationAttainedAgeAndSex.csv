@@ -1,0 +1,625 @@
+year,sex,age,highest_qualification,unemployed
+2010,male,15-29,primary and below,500
+2010,male,15-29,lower secondary,1200
+2010,male,15-29,secondary,3300
+2010,male,15-29,post-secondary (non-tertiary),3100
+2010,male,15-29,diploma and professional qualification,3400
+2010,male,15-29,degree,3300
+2010,male,30-39,primary and below,1000
+2010,male,30-39,lower secondary,700
+2010,male,30-39,secondary,1500
+2010,male,30-39,post-secondary (non-tertiary),1200
+2010,male,30-39,diploma and professional qualification,1400
+2010,male,30-39,degree,3100
+2010,male,40-49,primary and below,2400
+2010,male,40-49,lower secondary,1100
+2010,male,40-49,secondary,1300
+2010,male,40-49,post-secondary (non-tertiary),1000
+2010,male,40-49,diploma and professional qualification,1200
+2010,male,40-49,degree,1800
+2010,male,50 and over,primary and below,3800
+2010,male,50 and over,lower secondary,2500
+2010,male,50 and over,secondary,2400
+2010,male,50 and over,post-secondary (non-tertiary),1100
+2010,male,50 and over,diploma and professional qualification,1300
+2010,male,50 and over,degree,1500
+2010,female,15-29,primary and below,500
+2010,female,15-29,lower secondary,500
+2010,female,15-29,secondary,3700
+2010,female,15-29,post-secondary (non-tertiary),3000
+2010,female,15-29,diploma and professional qualification,4200
+2010,female,15-29,degree,5400
+2010,female,30-39,primary and below,300
+2010,female,30-39,lower secondary,500
+2010,female,30-39,secondary,1200
+2010,female,30-39,post-secondary (non-tertiary),700
+2010,female,30-39,diploma and professional qualification,1100
+2010,female,30-39,degree,4100
+2010,female,40-49,primary and below,1500
+2010,female,40-49,lower secondary,1100
+2010,female,40-49,secondary,2000
+2010,female,40-49,post-secondary (non-tertiary),800
+2010,female,40-49,diploma and professional qualification,1000
+2010,female,40-49,degree,1500
+2010,female,50 and over,primary and below,1900
+2010,female,50 and over,lower secondary,1100
+2010,female,50 and over,secondary,1800
+2010,female,50 and over,post-secondary (non-tertiary),600
+2010,female,50 and over,diploma and professional qualification,700
+2010,female,50 and over,degree,300
+2011,male,15-29,primary and below,300
+2011,male,15-29,lower secondary,1000
+2011,male,15-29,secondary,2900
+2011,male,15-29,post-secondary (non-tertiary),1700
+2011,male,15-29,diploma and professional qualification,3300
+2011,male,15-29,degree,3400
+2011,male,30-39,primary and below,400
+2011,male,30-39,lower secondary,900
+2011,male,30-39,secondary,1300
+2011,male,30-39,post-secondary (non-tertiary),900
+2011,male,30-39,diploma and professional qualification,1300
+2011,male,30-39,degree,2800
+2011,male,40-49,primary and below,1200
+2011,male,40-49,lower secondary,1100
+2011,male,40-49,secondary,1100
+2011,male,40-49,post-secondary (non-tertiary),900
+2011,male,40-49,diploma and professional qualification,1200
+2011,male,40-49,degree,2100
+2011,male,50 and over,primary and below,3600
+2011,male,50 and over,lower secondary,2500
+2011,male,50 and over,secondary,3000
+2011,male,50 and over,post-secondary (non-tertiary),1700
+2011,male,50 and over,diploma and professional qualification,1500
+2011,male,50 and over,degree,1700
+2011,female,15-29,primary and below,300
+2011,female,15-29,lower secondary,1200
+2011,female,15-29,secondary,3400
+2011,female,15-29,post-secondary (non-tertiary),2700
+2011,female,15-29,diploma and professional qualification,3400
+2011,female,15-29,degree,4600
+2011,female,30-39,primary and below,700
+2011,female,30-39,lower secondary,700
+2011,female,30-39,secondary,1500
+2011,female,30-39,post-secondary (non-tertiary),700
+2011,female,30-39,diploma and professional qualification,1200
+2011,female,30-39,degree,3700
+2011,female,40-49,primary and below,1300
+2011,female,40-49,lower secondary,1100
+2011,female,40-49,secondary,2900
+2011,female,40-49,post-secondary (non-tertiary),900
+2011,female,40-49,diploma and professional qualification,1000
+2011,female,40-49,degree,1200
+2011,female,50 and over,primary and below,2200
+2011,female,50 and over,lower secondary,1100
+2011,female,50 and over,secondary,1800
+2011,female,50 and over,post-secondary (non-tertiary),800
+2011,female,50 and over,diploma and professional qualification,700
+2011,female,50 and over,degree,400
+2012,male,15-29,primary and below,600
+2012,male,15-29,lower secondary,600
+2012,male,15-29,secondary,2600
+2012,male,15-29,post-secondary (non-tertiary),2300
+2012,male,15-29,diploma and professional qualification,2800
+2012,male,15-29,degree,4000
+2012,male,30-39,primary and below,300
+2012,male,30-39,lower secondary,300
+2012,male,30-39,secondary,1200
+2012,male,30-39,post-secondary (non-tertiary),800
+2012,male,30-39,diploma and professional qualification,1000
+2012,male,30-39,degree,1900
+2012,male,40-49,primary and below,1100
+2012,male,40-49,lower secondary,600
+2012,male,40-49,secondary,1300
+2012,male,40-49,post-secondary (non-tertiary),1200
+2012,male,40-49,diploma and professional qualification,900
+2012,male,40-49,degree,2400
+2012,male,50 and over,primary and below,4200
+2012,male,50 and over,lower secondary,1900
+2012,male,50 and over,secondary,3100
+2012,male,50 and over,post-secondary (non-tertiary),1100
+2012,male,50 and over,diploma and professional qualification,1400
+2012,male,50 and over,degree,1800
+2012,female,15-29,primary and below,200
+2012,female,15-29,lower secondary,1000
+2012,female,15-29,secondary,1800
+2012,female,15-29,post-secondary (non-tertiary),2900
+2012,female,15-29,diploma and professional qualification,4400
+2012,female,15-29,degree,4500
+2012,female,30-39,primary and below,500
+2012,female,30-39,lower secondary,400
+2012,female,30-39,secondary,1200
+2012,female,30-39,post-secondary (non-tertiary),900
+2012,female,30-39,diploma and professional qualification,1500
+2012,female,30-39,degree,3900
+2012,female,40-49,primary and below,1400
+2012,female,40-49,lower secondary,900
+2012,female,40-49,secondary,2300
+2012,female,40-49,post-secondary (non-tertiary),800
+2012,female,40-49,diploma and professional qualification,1000
+2012,female,40-49,degree,1300
+2012,female,50 and over,primary and below,2700
+2012,female,50 and over,lower secondary,1200
+2012,female,50 and over,secondary,2600
+2012,female,50 and over,post-secondary (non-tertiary),1000
+2012,female,50 and over,diploma and professional qualification,400
+2012,female,50 and over,degree,600
+2013,male,15-29,primary and below,100
+2013,male,15-29,lower secondary,700
+2013,male,15-29,secondary,2200
+2013,male,15-29,post-secondary (non-tertiary),2800
+2013,male,15-29,diploma and professional qualification,2800
+2013,male,15-29,degree,3900
+2013,male,30-39,primary and below,400
+2013,male,30-39,lower secondary,300
+2013,male,30-39,secondary,1200
+2013,male,30-39,post-secondary (non-tertiary),800
+2013,male,30-39,diploma and professional qualification,1500
+2013,male,30-39,degree,2500
+2013,male,40-49,primary and below,1000
+2013,male,40-49,lower secondary,700
+2013,male,40-49,secondary,1500
+2013,male,40-49,post-secondary (non-tertiary),500
+2013,male,40-49,diploma and professional qualification,1000
+2013,male,40-49,degree,2900
+2013,male,50 and over,primary and below,3500
+2013,male,50 and over,lower secondary,2100
+2013,male,50 and over,secondary,3000
+2013,male,50 and over,post-secondary (non-tertiary),1600
+2013,male,50 and over,diploma and professional qualification,1500
+2013,male,50 and over,degree,2100
+2013,female,15-29,primary and below,600
+2013,female,15-29,lower secondary,700
+2013,female,15-29,secondary,2800
+2013,female,15-29,post-secondary (non-tertiary),2100
+2013,female,15-29,diploma and professional qualification,4600
+2013,female,15-29,degree,5600
+2013,female,30-39,primary and below,600
+2013,female,30-39,lower secondary,500
+2013,female,30-39,secondary,1100
+2013,female,30-39,post-secondary (non-tertiary),700
+2013,female,30-39,diploma and professional qualification,2100
+2013,female,30-39,degree,4300
+2013,female,40-49,primary and below,800
+2013,female,40-49,lower secondary,900
+2013,female,40-49,secondary,1900
+2013,female,40-49,post-secondary (non-tertiary),700
+2013,female,40-49,diploma and professional qualification,1400
+2013,female,40-49,degree,2500
+2013,female,50 and over,primary and below,2500
+2013,female,50 and over,lower secondary,1200
+2013,female,50 and over,secondary,2200
+2013,female,50 and over,post-secondary (non-tertiary),800
+2013,female,50 and over,diploma and professional qualification,600
+2013,female,50 and over,degree,600
+2014,male,15-29,primary and below,600
+2014,male,15-29,lower secondary,900
+2014,male,15-29,secondary,4900
+2014,male,15-29,post-secondary (non-tertiary),5500
+2014,male,15-29,diploma and professional qualification,7400
+2014,male,15-29,degree,8200
+2014,male,30-39,primary and below,1300
+2014,male,30-39,lower secondary,1300
+2014,male,30-39,secondary,2300
+2014,male,30-39,post-secondary (non-tertiary),1300
+2014,male,30-39,diploma and professional qualification,2300
+2014,male,30-39,degree,6100
+2014,male,40-49,primary and below,1400
+2014,male,40-49,lower secondary,1000
+2014,male,40-49,secondary,2600
+2014,male,40-49,post-secondary (non-tertiary),2000
+2014,male,40-49,diploma and professional qualification,2000
+2014,male,40-49,degree,6900
+2014,male,50 and over,primary and below,6300
+2014,male,50 and over,lower secondary,3700
+2014,male,50 and over,secondary,5500
+2014,male,50 and over,post-secondary (non-tertiary),2400
+2014,male,50 and over,diploma and professional qualification,3000
+2014,male,50 and over,degree,4100
+2014,female,15-29,primary and below,500
+2014,female,15-29,lower secondary,1300
+2014,female,15-29,secondary,4600
+2014,female,15-29,post-secondary (non-tertiary),4200
+2014,female,15-29,diploma and professional qualification,7500
+2014,female,15-29,degree,13300
+2014,female,30-39,primary and below,800
+2014,female,30-39,lower secondary,700
+2014,female,30-39,secondary,1600
+2014,female,30-39,post-secondary (non-tertiary),1400
+2014,female,30-39,diploma and professional qualification,3400
+2014,female,30-39,degree,8600
+2014,female,40-49,primary and below,1200
+2014,female,40-49,lower secondary,1200
+2014,female,40-49,secondary,3400
+2014,female,40-49,post-secondary (non-tertiary),1600
+2014,female,40-49,diploma and professional qualification,3200
+2014,female,40-49,degree,5000
+2014,female,50 and over,primary and below,4700
+2014,female,50 and over,lower secondary,2500
+2014,female,50 and over,secondary,4300
+2014,female,50 and over,post-secondary (non-tertiary),1400
+2014,female,50 and over,diploma and professional qualification,1600
+2014,female,50 and over,degree,2200
+2015,male,15-29,primary and below,300
+2015,male,15-29,lower secondary,400
+2015,male,15-29,secondary,2200
+2015,male,15-29,post-secondary (non-tertiary),3500
+2015,male,15-29,diploma and professional qualification,4200
+2015,male,15-29,degree,4000
+2015,male,30-39,primary and below,300
+2015,male,30-39,lower secondary,700
+2015,male,30-39,secondary,1100
+2015,male,30-39,post-secondary (non-tertiary),800
+2015,male,30-39,diploma and professional qualification,1700
+2015,male,30-39,degree,2000
+2015,male,40-49,primary and below,800
+2015,male,40-49,lower secondary,500
+2015,male,40-49,secondary,1100
+2015,male,40-49,post-secondary (non-tertiary),500
+2015,male,40-49,diploma and professional qualification,1300
+2015,male,40-49,degree,3400
+2015,male,50 and over,primary and below,3800
+2015,male,50 and over,lower secondary,2300
+2015,male,50 and over,secondary,3700
+2015,male,50 and over,post-secondary (non-tertiary),1500
+2015,male,50 and over,diploma and professional qualification,1700
+2015,male,50 and over,degree,2700
+2015,female,15-29,primary and below,200
+2015,female,15-29,lower secondary,400
+2015,female,15-29,secondary,2800
+2015,female,15-29,post-secondary (non-tertiary),2600
+2015,female,15-29,diploma and professional qualification,4700
+2015,female,15-29,degree,5600
+2015,female,30-39,primary and below,100
+2015,female,30-39,lower secondary,200
+2015,female,30-39,secondary,700
+2015,female,30-39,post-secondary (non-tertiary),700
+2015,female,30-39,diploma and professional qualification,1300
+2015,female,30-39,degree,3700
+2015,female,40-49,primary and below,400
+2015,female,40-49,lower secondary,700
+2015,female,40-49,secondary,1500
+2015,female,40-49,post-secondary (non-tertiary),900
+2015,female,40-49,diploma and professional qualification,1500
+2015,female,40-49,degree,2700
+2015,female,50 and over,primary and below,2300
+2015,female,50 and over,lower secondary,900
+2015,female,50 and over,secondary,3100
+2015,female,50 and over,post-secondary (non-tertiary),800
+2015,female,50 and over,diploma and professional qualification,1200
+2015,female,50 and over,degree,1300
+2016,male,15-29,primary and below,200
+2016,male,15-29,lower secondary,500
+2016,male,15-29,secondary,2100
+2016,male,15-29,post-secondary (non-tertiary),2600
+2016,male,15-29,diploma and professional qualification,4400
+2016,male,15-29,degree,4900
+2016,male,30-39,primary and below,300
+2016,male,30-39,lower secondary,600
+2016,male,30-39,secondary,1100
+2016,male,30-39,post-secondary (non-tertiary),800
+2016,male,30-39,diploma and professional qualification,1000
+2016,male,30-39,degree,3600
+2016,male,40-49,primary and below,700
+2016,male,40-49,lower secondary,300
+2016,male,40-49,secondary,1200
+2016,male,40-49,post-secondary (non-tertiary),600
+2016,male,40-49,diploma and professional qualification,1400
+2016,male,40-49,degree,3800
+2016,male,50 and over,primary and below,3800
+2016,male,50 and over,lower secondary,1900
+2016,male,50 and over,secondary,3000
+2016,male,50 and over,post-secondary (non-tertiary),1400
+2016,male,50 and over,diploma and professional qualification,2000
+2016,male,50 and over,degree,3700
+2016,female,15-29,primary and below,400
+2016,female,15-29,lower secondary,400
+2016,female,15-29,secondary,1900
+2016,female,15-29,post-secondary (non-tertiary),2000
+2016,female,15-29,diploma and professional qualification,4300
+2016,female,15-29,degree,7500
+2016,female,30-39,primary and below,500
+2016,female,30-39,lower secondary,400
+2016,female,30-39,secondary,1000
+2016,female,30-39,post-secondary (non-tertiary),900
+2016,female,30-39,diploma and professional qualification,1700
+2016,female,30-39,degree,5100
+2016,female,40-49,primary and below,600
+2016,female,40-49,lower secondary,700
+2016,female,40-49,secondary,2200
+2016,female,40-49,post-secondary (non-tertiary),900
+2016,female,40-49,diploma and professional qualification,2200
+2016,female,40-49,degree,2600
+2016,female,50 and over,primary and below,2000
+2016,female,50 and over,lower secondary,1800
+2016,female,50 and over,secondary,3700
+2016,female,50 and over,post-secondary (non-tertiary),1100
+2016,female,50 and over,diploma and professional qualification,1300
+2016,female,50 and over,degree,1300
+2017,male,15-29,primary and below,200
+2017,male,15-29,lower secondary,400
+2017,male,15-29,secondary,2700
+2017,male,15-29,post-secondary (non-tertiary),3100
+2017,male,15-29,diploma and professional qualification,4300
+2017,male,15-29,degree,5200
+2017,male,30-39,primary and below,300
+2017,male,30-39,lower secondary,500
+2017,male,30-39,secondary,900
+2017,male,30-39,post-secondary (non-tertiary),1200
+2017,male,30-39,diploma and professional qualification,1000
+2017,male,30-39,degree,3600
+2017,male,40-49,primary and below,500
+2017,male,40-49,lower secondary,500
+2017,male,40-49,secondary,1200
+2017,male,40-49,post-secondary (non-tertiary),800
+2017,male,40-49,diploma and professional qualification,1300
+2017,male,40-49,degree,3600
+2017,male,50 and over,primary and below,3800
+2017,male,50 and over,lower secondary,3000
+2017,male,50 and over,secondary,3300
+2017,male,50 and over,post-secondary (non-tertiary),2500
+2017,male,50 and over,diploma and professional qualification,1400
+2017,male,50 and over,degree,4100
+2017,female,15-29,primary and below,100
+2017,female,15-29,lower secondary,200
+2017,female,15-29,secondary,2100
+2017,female,15-29,post-secondary (non-tertiary),2500
+2017,female,15-29,diploma and professional qualification,3900
+2017,female,15-29,degree,7800
+2017,female,30-39,primary and below,100
+2017,female,30-39,lower secondary,300
+2017,female,30-39,secondary,1200
+2017,female,30-39,post-secondary (non-tertiary),600
+2017,female,30-39,diploma and professional qualification,1900
+2017,female,30-39,degree,3800
+2017,female,40-49,primary and below,500
+2017,female,40-49,lower secondary,700
+2017,female,40-49,secondary,1700
+2017,female,40-49,post-secondary (non-tertiary),1000
+2017,female,40-49,diploma and professional qualification,1900
+2017,female,40-49,degree,4100
+2017,female,50 and over,primary and below,2000
+2017,female,50 and over,lower secondary,1000
+2017,female,50 and over,secondary,2900
+2017,female,50 and over,post-secondary (non-tertiary),1400
+2017,female,50 and over,diploma and professional qualification,1800
+2017,female,50 and over,degree,1600
+2018,male,15-29,primary and below,300
+2018,male,15-29,lower secondary,500
+2018,male,15-29,secondary,1900
+2018,male,15-29,post-secondary (non-tertiary),3200
+2018,male,15-29,diploma and professional qualification,3400
+2018,male,15-29,degree,4900
+2018,male,30-39,primary and below,200
+2018,male,30-39,lower secondary,200
+2018,male,30-39,secondary,1100
+2018,male,30-39,post-secondary (non-tertiary),800
+2018,male,30-39,diploma and professional qualification,1600
+2018,male,30-39,degree,3300
+2018,male,40-49,primary and below,300
+2018,male,40-49,lower secondary,400
+2018,male,40-49,secondary,1200
+2018,male,40-49,post-secondary (non-tertiary),900
+2018,male,40-49,diploma and professional qualification,1800
+2018,male,40-49,degree,3600
+2018,male,50 and over,primary and below,3600
+2018,male,50 and over,lower secondary,1600
+2018,male,50 and over,secondary,3300
+2018,male,50 and over,post-secondary (non-tertiary),1800
+2018,male,50 and over,diploma and professional qualification,2000
+2018,male,50 and over,degree,4400
+2018,female,15-29,primary and below,400
+2018,female,15-29,lower secondary,100
+2018,female,15-29,secondary,2000
+2018,female,15-29,post-secondary (non-tertiary),2700
+2018,female,15-29,diploma and professional qualification,4900
+2018,female,15-29,degree,6800
+2018,female,30-39,primary and below,200
+2018,female,30-39,lower secondary,300
+2018,female,30-39,secondary,800
+2018,female,30-39,post-secondary (non-tertiary),600
+2018,female,30-39,diploma and professional qualification,1400
+2018,female,30-39,degree,4300
+2018,female,40-49,primary and below,700
+2018,female,40-49,lower secondary,600
+2018,female,40-49,secondary,1100
+2018,female,40-49,post-secondary (non-tertiary),1000
+2018,female,40-49,diploma and professional qualification,2200
+2018,female,40-49,degree,2700
+2018,female,50 and over,primary and below,1800
+2018,female,50 and over,lower secondary,1400
+2018,female,50 and over,secondary,2500
+2018,female,50 and over,post-secondary (non-tertiary),1500
+2018,female,50 and over,diploma and professional qualification,1100
+2018,female,50 and over,degree,1800
+2019,male,15-29,primary and below,400
+2019,male,15-29,lower secondary,400
+2019,male,15-29,secondary,1700
+2019,male,15-29,post-secondary (non-tertiary),3400
+2019,male,15-29,diploma and professional qualification,5400
+2019,male,15-29,degree,6000
+2019,male,30-39,primary and below,200
+2019,male,30-39,lower secondary,300
+2019,male,30-39,secondary,1000
+2019,male,30-39,post-secondary (non-tertiary),800
+2019,male,30-39,diploma and professional qualification,1300
+2019,male,30-39,degree,2600
+2019,male,40-49,primary and below,500
+2019,male,40-49,lower secondary,600
+2019,male,40-49,secondary,1200
+2019,male,40-49,post-secondary (non-tertiary),800
+2019,male,40-49,diploma and professional qualification,1700
+2019,male,40-49,degree,3100
+2019,male,50 and over,primary and below,3800
+2019,male,50 and over,lower secondary,2100
+2019,male,50 and over,secondary,3000
+2019,male,50 and over,post-secondary (non-tertiary),1500
+2019,male,50 and over,diploma and professional qualification,2900
+2019,male,50 and over,degree,4000
+2019,female,15-29,primary and below,200
+2019,female,15-29,lower secondary,400
+2019,female,15-29,secondary,2100
+2019,female,15-29,post-secondary (non-tertiary),2600
+2019,female,15-29,diploma and professional qualification,5000
+2019,female,15-29,degree,7900
+2019,female,30-39,primary and below,400
+2019,female,30-39,lower secondary,400
+2019,female,30-39,secondary,1000
+2019,female,30-39,post-secondary (non-tertiary),600
+2019,female,30-39,diploma and professional qualification,2000
+2019,female,30-39,degree,4100
+2019,female,40-49,primary and below,600
+2019,female,40-49,lower secondary,800
+2019,female,40-49,secondary,1600
+2019,female,40-49,post-secondary (non-tertiary),800
+2019,female,40-49,diploma and professional qualification,2300
+2019,female,40-49,degree,4400
+2019,female,50 and over,primary and below,2000
+2019,female,50 and over,lower secondary,700
+2019,female,50 and over,secondary,4200
+2019,female,50 and over,post-secondary (non-tertiary),1400
+2019,female,50 and over,diploma and professional qualification,2200
+2019,female,50 and over,degree,1800
+2020,male,15-29,primary and below,500
+2020,male,15-29,lower secondary,300
+2020,male,15-29,secondary,2200
+2020,male,15-29,post-secondary (non-tertiary),4100
+2020,male,15-29,diploma and professional qualification,5800
+2020,male,15-29,degree,5900
+2020,male,30-39,primary and below,300
+2020,male,30-39,lower secondary,400
+2020,male,30-39,secondary,1200
+2020,male,30-39,post-secondary (non-tertiary),1400
+2020,male,30-39,diploma and professional qualification,2200
+2020,male,30-39,degree,3700
+2020,male,40-49,primary and below,700
+2020,male,40-49,lower secondary,500
+2020,male,40-49,secondary,1100
+2020,male,40-49,post-secondary (non-tertiary),1400
+2020,male,40-49,diploma and professional qualification,2100
+2020,male,40-49,degree,3900
+2020,male,50 and over,primary and below,5200
+2020,male,50 and over,lower secondary,2800
+2020,male,50 and over,secondary,5100
+2020,male,50 and over,post-secondary (non-tertiary),2400
+2020,male,50 and over,diploma and professional qualification,3600
+2020,male,50 and over,degree,5100
+2020,female,15-29,primary and below,400
+2020,female,15-29,lower secondary,300
+2020,female,15-29,secondary,2400
+2020,female,15-29,post-secondary (non-tertiary),4800
+2020,female,15-29,diploma and professional qualification,7400
+2020,female,15-29,degree,6500
+2020,female,30-39,primary and below,500
+2020,female,30-39,lower secondary,500
+2020,female,30-39,secondary,1500
+2020,female,30-39,post-secondary (non-tertiary),1000
+2020,female,30-39,diploma and professional qualification,2900
+2020,female,30-39,degree,4500
+2020,female,40-49,primary and below,600
+2020,female,40-49,lower secondary,600
+2020,female,40-49,secondary,1600
+2020,female,40-49,post-secondary (non-tertiary),1000
+2020,female,40-49,diploma and professional qualification,2900
+2020,female,40-49,degree,4900
+2020,female,50 and over,primary and below,2900
+2020,female,50 and over,lower secondary,1800
+2020,female,50 and over,secondary,4200
+2020,female,50 and over,post-secondary (non-tertiary),2100
+2020,female,50 and over,diploma and professional qualification,2700
+2020,female,50 and over,degree,2700
+2021,male,15-29,primary and below,200
+2021,male,15-29,lower secondary,300
+2021,male,15-29,secondary,2200
+2021,male,15-29,post-secondary (non-tertiary),1500
+2021,male,15-29,diploma and professional qualification,3300
+2021,male,15-29,degree,6600
+2021,male,30-39,primary and below,200
+2021,male,30-39,lower secondary,300
+2021,male,30-39,secondary,1400
+2021,male,30-39,post-secondary (non-tertiary),1300
+2021,male,30-39,diploma and professional qualification,1300
+2021,male,30-39,degree,5800
+2021,male,40-49,primary and below,1400
+2021,male,40-49,lower secondary,200
+2021,male,40-49,secondary,2200
+2021,male,40-49,post-secondary (non-tertiary),1300
+2021,male,40-49,diploma and professional qualification,1900
+2021,male,40-49,degree,4700
+2021,male,50 and over,primary and below,3100
+2021,male,50 and over,lower secondary,2100
+2021,male,50 and over,secondary,3100
+2021,male,50 and over,post-secondary (non-tertiary),2100
+2021,male,50 and over,diploma and professional qualification,3000
+2021,male,50 and over,degree,5500
+2021,female,15-29,primary and below,200
+2021,female,15-29,lower secondary,200
+2021,female,15-29,secondary,1500
+2021,female,15-29,post-secondary (non-tertiary),2500
+2021,female,15-29,diploma and professional qualification,4500
+2021,female,15-29,degree,8300
+2021,female,30-39,primary and below,400
+2021,female,30-39,lower secondary,200
+2021,female,30-39,secondary,1700
+2021,female,30-39,post-secondary (non-tertiary),800
+2021,female,30-39,diploma and professional qualification,2100
+2021,female,30-39,degree,5500
+2021,female,40-49,primary and below,1200
+2021,female,40-49,lower secondary,400
+2021,female,40-49,secondary,3100
+2021,female,40-49,post-secondary (non-tertiary),1100
+2021,female,40-49,diploma and professional qualification,2600
+2021,female,40-49,degree,6300
+2021,female,50 and over,primary and below,2000
+2021,female,50 and over,lower secondary,800
+2021,female,50 and over,secondary,3600
+2021,female,50 and over,post-secondary (non-tertiary),1700
+2021,female,50 and over,diploma and professional qualification,2600
+2021,female,50 and over,degree,2600
+2022,male,15-29,primary and below,100
+2022,male,15-29,lower secondary,100
+2022,male,15-29,secondary,700
+2022,male,15-29,post-secondary (non-tertiary),2100
+2022,male,15-29,diploma and professional qualification,3400
+2022,male,15-29,degree,4300
+2022,male,30-39,primary and below,200
+2022,male,30-39,lower secondary,400
+2022,male,30-39,secondary,1400
+2022,male,30-39,post-secondary (non-tertiary),600
+2022,male,30-39,diploma and professional qualification,1400
+2022,male,30-39,degree,3800
+2022,male,40-49,primary and below,600
+2022,male,40-49,lower secondary,500
+2022,male,40-49,secondary,1900
+2022,male,40-49,post-secondary (non-tertiary),1100
+2022,male,40-49,diploma and professional qualification,1100
+2022,male,40-49,degree,3300
+2022,male,50 and over,primary and below,2100
+2022,male,50 and over,lower secondary,1100
+2022,male,50 and over,secondary,3300
+2022,male,50 and over,post-secondary (non-tertiary),2500
+2022,male,50 and over,diploma and professional qualification,3300
+2022,male,50 and over,degree,4800
+2022,female,15-29,primary and below,100
+2022,female,15-29,lower secondary,100
+2022,female,15-29,secondary,900
+2022,female,15-29,post-secondary (non-tertiary),2300
+2022,female,15-29,diploma and professional qualification,3700
+2022,female,15-29,degree,5400
+2022,female,30-39,primary and below,200
+2022,female,30-39,lower secondary,600
+2022,female,30-39,secondary,1800
+2022,female,30-39,post-secondary (non-tertiary),1200
+2022,female,30-39,diploma and professional qualification,1100
+2022,female,30-39,degree,4700
+2022,female,40-49,primary and below,500
+2022,female,40-49,lower secondary,400
+2022,female,40-49,secondary,1000
+2022,female,40-49,post-secondary (non-tertiary),600
+2022,female,40-49,diploma and professional qualification,2600
+2022,female,40-49,degree,3500
+2022,female,50 and over,primary and below,1800
+2022,female,50 and over,lower secondary,1100
+2022,female,50 and over,secondary,3200
+2022,female,50 and over,post-secondary (non-tertiary),1800
+2022,female,50 and over,diploma and professional qualification,2200
+2022,female,50 and over,degree,2400
